@@ -1,0 +1,7 @@
+# pymailcheckrc
+
+[preferences]
+maildir = /home/bourke/.mutt/cache/INBOX
+# interval is in seconds
+interval = 15
+
